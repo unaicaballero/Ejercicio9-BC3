@@ -1,0 +1,1 @@
+Aqui me pide registrar asistencia de gente sin contar la gente que este duplicada asegurandose asi que la gente no entre 2 veces, entonces con un set hago que se compruebe el nombre con un bucle y si el nombre ya esta registrado me avisaria y si no esta registrado podria introducir el nombre dentro del set y despues mostrar la lista.
